@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="iOS/XFormsPushNotifications.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="24" Column="87" />
+      <File FileName="Droid/PushNotificationStarted.txt" Line="34" Column="103" />
+      <File FileName="iOS/PushNotificationApplicationDelegate.txt" Line="1" Column="1" />
+      <File FileName="XFormsPushNotifications/Helpers/Keys.cs" Line="7" Column="41" />
+      <File FileName="XFormsPushNotifications/Services/CrossPushNotificationListener.cs" Line="9" Column="3" />
+      <File FileName="XFormsPushNotifications/XFormsPushNotifications.cs" Line="28" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
