@@ -59,5 +59,9 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.Dispute.XamarinApp</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
 </dict>
 </plist>
